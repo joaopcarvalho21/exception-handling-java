@@ -53,49 +53,49 @@ Este projeto demonstra um sistema simples para gerenciar contas bancárias com f
 **Exemplo 1: Saque Simples**
 
 ```
-Insira os dados da conta:
-Número da Conta: 1001
-Titular: João
-Saldo Inicial: 1000.00
-Limite de Saque: 500.00
+Enter the account data:
+Account Number: 1001
+Holder: John
+Initial Balance: 1000.00
+Withdraw Limit: 500.00
 
-Insira o valor para saque: 200.00
-Saldo Atualizado: R$800.00
+Enter amount for withdraw: 200.00
+Updated Balance: $800.00
 ```
 
 **Exemplo 2: Limite de Saque Excedido**
 
 ```
-Insira os dados da conta:
-Número da Conta: 1002
-Titular: Maria
-Saldo Inicial: 1500.00
-Limite de Saque: 300.00
+Enter the account data:
+Account Number: 1002
+Holder: Mary
+Initial Balance: 1500.00
+Withdraw Limit: 300.00
 
-Insira o valor para saque: 400.00
-O valor excede o limite de saque
+Enter amount for withdraw: 400.00
+The amount exceeds withdraw limit
 ```
 
 **Exemplo 3: Depósito e Saque na Mesma Transação**
 
 ```
-Insira os dados da conta:
-Número da Conta: 1003
-Titular: Paulo
-Saldo Inicial: 500.00
-Limite de Saque: 250.00
+Enter the account data:
+Account Number: 1003
+Holder: Paul
+Initial Balance: 500.00
+Withdraw Limit: 250.00
 
-Escolha a Operação: 
-1 - Depósito
-2 - Saque
-3 - Depósito e Saque
-Opção: 3
+Choose Operation: 
+1 - Deposit
+2 - Withdraw
+3 - Deposit and Withdraw
+Option: 3
 
-Insira o valor para depósito: 300.00
-Saldo Atualizado após Depósito: R$800.00
+Enter deposit amount: 300.00
+Updated Balance after Deposit: $800.00
 
-Insira o valor para saque: 200.00
-Saldo Atualizado após Saque: R$600.00
+Enter withdraw amount: 200.00
+Updated Balance after Withdraw: $600.00
 ```
 
 ---
